@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @csu-lzj
+- 👋 Hi, I’m @smu-lzj
 - 👀 I’m interested in biology and bioinformatics
 - 🌱 I’m currently learning linux and r
 - 💞️ I’m looking to collaborate on machine learning
